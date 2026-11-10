@@ -1,0 +1,2 @@
+VSC permite una gestion mas rapida en comparacion a escribir los comandos desde la terminal de windows
+
