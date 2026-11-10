@@ -1,0 +1,1 @@
+Todo el proceso de configuracion se ha realizado desde la terminal de windows usando comandos de git y nano, aunque la IA entrega el codigo en segundos es importante conocer el funcionamiento de los codigos.
