@@ -1,0 +1,1 @@
+Cuando una rama comple su fin y poder tener la posibilidad de crear nuevamente una rama con ese nombre es necesario eliminarla.
