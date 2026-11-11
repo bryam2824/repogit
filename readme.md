@@ -1,0 +1,1 @@
+Despues de trabajar desde la terminal con el subsistema linux y git, se inicia a trabajar en VSC, es importante darle buena gestion a las claves y conexion con GITHUB ya que esto puede traer problemas de conexion entre el trabajo local y la nube.
