@@ -2,3 +2,6 @@ Después de trabajar desde la terminal con el Subsistema de Windows para Linux (
 
 Sin duda, es un proceso de aprendizaje constante. Actualmente, GitHub permite realizar modificaciones que posteriormente pueden enviarse y sincronizarse con el entorno local, facilitando así la colaboración y el control de versiones del proyecto.
 
+Como fin educativo se va usar el comando Fch
+
+
