@@ -5,3 +5,4 @@ Sin duda, es un proceso de aprendizaje constante. Actualmente, GitHub permite re
 Como fin educativo se va usar el comando Fch
 
 
+Ahora voy a realizar cambios desde la rama llamada bryam01, emulando un trabajo realizado en conjuntos desde ramas separadas
